@@ -22,7 +22,7 @@ The project is designed to reflect real-world business analysis where insights a
 - Customer Tenure
 - Customer Stisfaction Score
 - Usage and Engagement Indicators
-- churn
+- churn by Customer Segment
 
 ## Key Insights
 - Customers with lower satisfaction scores were sighnifcantly more likely to churn highlighting satisfaction as a primary churn driver
